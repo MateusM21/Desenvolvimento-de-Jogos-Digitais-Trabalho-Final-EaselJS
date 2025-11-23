@@ -78,7 +78,7 @@ O jogo é uma aplicação web desenvolvida em JavaScript/HTML5.
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/MateusM21/Desenvolvimento-de-Jogos-Digitas-Trabalho-Final-EaselJS.git](https://github.com/MateusM21/Desenvolvimento-de-Jogos-Digitas-Trabalho-Final-EaselJS.git)
+&nbsp;   git clone \ https://github.com/MateusM21/Desenvolvimento-de-Jogos-Digitais-Trabalho-Final-EaselJS.git
 
 &nbsp;   ```
 
@@ -139,16 +139,4 @@ As imagens a seguir demonstram o fluxo de jogo:
 !\[Tela de Game Over com Pontuação](screenshots/image\_3ed217.png)
 
 !\[Tela de Game Over - Detalhe](screenshots/image\_3ed21f.png)
-
-
-
-\*\*\*
-
-
-
-\## 5. Estrutura e Organização do Projeto (GitHub)
-
-
-
-O repositório está organizado para facilitar a navegação e a compreensão do código-fonte:
 
